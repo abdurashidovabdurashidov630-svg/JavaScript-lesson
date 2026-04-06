@@ -8,7 +8,7 @@ console.log("GitHub")
 
 // git commit -m "comentariya yoziladi"
 
-// git push origin master*
+// git push origin master
 
 // -------------------------------------------
 
@@ -23,4 +23,4 @@ console.log("GitHub")
 
 // gid add .
 // git commit -m "comentariya yozing"
-// git push origin master*
+// git push origin master 
