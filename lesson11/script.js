@@ -54,10 +54,10 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-let a = 10;
-let b = 20;
-function yigindi(raqam1, raqam2) {
-  let summa = raqam1 + raqam2;
-  return summa;
-}
-console.log(yigindi(a, b));
+// let a = 10;
+// let b = 20;
+// function yigindi(raqam1, raqam2) {
+//   let summa = raqam1 + raqam2;
+//   return summa;
+// }
+// console.log(yigindi(a, b));
